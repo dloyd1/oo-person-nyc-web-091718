@@ -52,5 +52,3 @@ def call_friend(friend)
 end
 
 end
-bob = Person.new(“bob”)
-sue = Person.new(“sue”)
